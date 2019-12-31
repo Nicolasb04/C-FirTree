@@ -1,6 +1,36 @@
-# Fir Tree
+[French version][French] / [English version][English]
 
-First C project for EPITECH / Coding Academy.
+[French] # Fir Tree
+
+Premier projet réalisé dans le cadre de la Coding Academy, EPITECH.
+
+Ce projet est un sapin de Noel en ASCII art, redimensionnable, en C.
+
+## Comment l'essayer
+
+Pour commencer, ouvrez votre **Terminal** et déplacez vous dans le repository ou le fichier "_tree.c_" est situé.
+Ensuite, **effectuez** la commande suivante ( Il est nécessaire d'avoir [GCC](https://gcc.gnu.org/install/) d'installé pour effectuer cette commande ) : 
+```
+gcc tree.c -o test
+```
+L'éxécutable est maintenant crée ! Pour afficher votre sapin de Noel, il vous reste juste à effectuer cette commande :
+```
+./test 5
+```
+Vous pouvez changer la taille du sapin en remplaçant 5 par un autre chiffre / nombre !
+
+
+
+
+
+
+
+
+
+
+[English] # Fir Tree
+
+First project for EPITECH / Coding Academy.
 
 This project is an ASCII art fir tree, rescalable, in C language.
 
