@@ -1,5 +1,3 @@
-[French version](#Utilisation)
-
 # Fir Tree
 
 First project for EPITECH / Coding Academy.
@@ -18,26 +16,10 @@ Now, your **executable file** is created. You just have to run it with the follo
 ./test 5
 ```
 You can change your fir tree size just by using an other number instead of 5
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-# Fir tree
 
-Premier projet réalisé dans le cadre de la Coding Academy, EPITECH.
+## About Me
 
-Ce projet est un sapin de Noel en ASCII art, redimensionnable, en C.
+Nicolas Blanc
 
-## Utilisation
-
-Pour commencer, ouvrez votre **Terminal** et déplacez vous dans le repository ou le fichier "_tree.c_" est situé.
-Ensuite, **effectuez** la commande suivante ( Il est nécessaire d'avoir [GCC](https://gcc.gnu.org/install/) d'installé pour effectuer cette commande ) : 
-```
-gcc tree.c -o test
-```
-L'éxécutable est maintenant crée ! Pour afficher votre sapin de Noel, il vous reste juste à effectuer cette commande :
-```
-./test 5
-```
-Vous pouvez changer la taille du sapin en remplaçant 5 par un autre chiffre / nombre !
+* [Github](https://github.com/Nicolasb04)
+* LinkedIn
