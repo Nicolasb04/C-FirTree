@@ -1,6 +1,6 @@
 [French version][French] / [English version][English]
 
-# [French] Fir Tree
+# [French]: Fir Tree
 
 Premier projet réalisé dans le cadre de la Coding Academy, EPITECH.
 
@@ -20,7 +20,7 @@ L'éxécutable est maintenant crée ! Pour afficher votre sapin de Noel, il vous
 Vous pouvez changer la taille du sapin en remplaçant 5 par un autre chiffre / nombre !
 
 
-# [English] Fir Tree
+# [English]: Fir Tree
 
 First project for EPITECH / Coding Academy.
 
