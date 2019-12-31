@@ -17,12 +17,7 @@ Now, your **executable file** is created. You just have to run it with the follo
 ```
 ./test 5
 ```
-You can change your fir tree size just by using an other number instead of 5
-
-
-
-
-
+You can change your fir tree size just by using an other number instead of 5            
 
 # Sapin de Noel
 
