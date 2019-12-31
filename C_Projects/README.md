@@ -1,6 +1,6 @@
-[French version][FrenchV] / [English version][EnglishV]
+[French version][#Sapin] / [English version][#Fir-tree]
 
-# Fir Tree
+# Sapin de Noel
 [FrenchV]:
 
 Premier projet réalisé dans le cadre de la Coding Academy, EPITECH.
