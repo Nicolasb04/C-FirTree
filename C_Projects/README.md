@@ -1,7 +1,6 @@
-[French version][#Sapin] / [English version][#Fir-tree]
+[French version](#Sapin) / [English version](#Fir-tree)
 
 # Sapin de Noel
-[FrenchV]:
 
 Premier projet réalisé dans le cadre de la Coding Academy, EPITECH.
 
@@ -22,7 +21,6 @@ Vous pouvez changer la taille du sapin en remplaçant 5 par un autre chiffre / n
 
 
 # Fir Tree
-[EnglishV]:
 
 First project for EPITECH / Coding Academy.
 
