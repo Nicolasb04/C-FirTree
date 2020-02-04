@@ -22,4 +22,4 @@ You can change your fir tree size just by using an other number instead of 5
 Nicolas Blanc
 
 * [Github](https://github.com/Nicolasb04)
-* LinkedIn
+* [LinkedIn](https://www.linkedin.com/in/nicolas-blanc04/)
